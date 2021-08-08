@@ -24,16 +24,6 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunjoolee&count_bg=%23D0D0D0&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sunjoo9912)](https://velog.io/@sunjoo9912)  
-  
-### 💻Tech Stack💻 
-
-<img src="https://img.shields.io/badge/C++-929292?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kotlin-929292?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-929292?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-929292?style=flat-square&logo=Python&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/Android Studio-929292?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Arduino-929292?style=flat-square&logo=Arduino&logoColor=white"/></a>
 
 ### 📌My Stats📌
 
