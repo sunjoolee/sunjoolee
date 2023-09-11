@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <div align='center'>
-
- 
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sunjoo9912)](https://solved.ac/sunjoo9912) 
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sunjoo9912)](https://velog.io/@sunjoo9912)    
  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=sunjoolee&theme=dark)](https://git.io/streak-stats)
+  <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=sunjoolee&theme=dark)](https://git.io/streak-stats)-->
  
   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sunjoo9912)](https://solved.ac/sunjoo9912)
 <a href="https://velog.io/@sunjoo9912"><img src="https://img.shields.io/badge/Velog-929292?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@sunjoo9912"/> 
