@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 <!--<img src="https://readme-jokes.vercel.app/api?bgColor=transparent&borderColor=%23339af0&qColor=%23a5d8ff&aColor=%234dabf7&textColor=%234dabf7" alt="Jokes Card" />-->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sunjoolee&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sunjoolee&theme=vue&border_radius=20&hide_border=true&excludeDays=Sat,Sun)](https://git.io/streak-stats)
 
-![](https://leetcard.jacoblin.cool/spottypoo124?ext=heatmap)
+![](https://leetcard.jacoblin.cool/spottypoo124?ext=activity&border=0&radius=20&theme=unicorn)
  
 </div>
