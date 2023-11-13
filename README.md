@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sunjoolee&theme=vue&border_radius=20&hide_border=true&excludeDays=Sat,Sun)](https://git.io/streak-stats)
 
-![](https://leetcard.jacoblin.cool/spottypoo124?ext=activity&border=0&radius=20&theme=unicorn)
+<!--![](https://leetcard.jacoblin.cool/spottypoo124?ext=activity&border=0&radius=20&theme=unicorn)-->
  
 </div>
